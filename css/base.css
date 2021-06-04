@@ -6,10 +6,10 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 }
 
 body {
-	--color-text: #4800d4;
-    --color-bg: #e8e8e8;
-    --color-link: #ec1752;
-    --color-link-hover: #eb1851;
+	--color-text: #a7c4bc;
+    --color-bg: #5e8b7e;
+    --color-link: #dfeeea;
+    --color-link-hover: #2f5d62;
     --color-info: #272526;
     --grid-item-bg: #f1f1f1;
     --color-close: #ec1752;
