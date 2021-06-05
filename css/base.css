@@ -6,7 +6,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 }
 
 body {
-	--color-text: #a7c4bc;
+	--color-text: #2f5d62;
     --color-bg: #5e8b7e;
     --color-link: #dfeeea;
     --color-link-hover: #2f5d62;
@@ -17,8 +17,12 @@ body {
 	min-height: 100vh;
 	color: #57585c;
 	color: var(--color-text);
-	background-color: #fff;
+	background-color: rgb(255, 255, 255);
 	background-color: var(--color-bg);
+}
+
+h2 {
+	color: #a7c4bc;
 }
 
 /* Page Loader */
